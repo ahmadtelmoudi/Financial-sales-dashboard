@@ -49,7 +49,7 @@ DIVIDE(
 
 ## 👤 Author & Developer
 
-### ⚡ Developed by **Ahmed Telmoudi**
+### ⚡ Developed by **Ahmad Telmoudi**
 **Financial Data Analyst**
 
 This project was independently designed, developed, and is fully maintained by **Ahmad Telmoudi**. As a Financial Data Analyst, I specialize in building robust data architectures and creating comprehensive, automated business intelligence solutions that bridge the gap between complex raw transactional numbers and clear strategic execution.
